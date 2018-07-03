@@ -1,0 +1,6 @@
+node_modules/
+envname/
+.eslintrc.js
+model.bin
+package-lock.json
+reviews_data.txt.gz
